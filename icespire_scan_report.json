@@ -1,0 +1,19 @@
+{
+    "target_ip": "104.18.26.90",
+    "open_ports": [
+        {
+            "port": 80,
+            "service": "http"
+        },
+        {
+            "port": 443,
+            "service": "https"
+        },
+        {
+            "port": 8080,
+            "service": "http-alt"
+        }
+    ],
+    "missing_security_headers": [],
+    "vulnerabilities": []
+}
